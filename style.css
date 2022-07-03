@@ -24,3 +24,15 @@ section {
     padding-left: 20%;
     padding-bottom: 100%;
 }
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(purple, pink);
+    color: antiquewhite;
+    font-weight: 700;
+    padding: 10px 40px;
+}
+
+.parafirst {
+    font-size: 110%;
+}
